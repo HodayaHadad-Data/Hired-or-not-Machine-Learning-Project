@@ -4,4 +4,4 @@ This project involves developing a machine learning model to classify whether a 
 
 Several models, including AdaBoost, Logistic Regression, and k-Nearest Neighbors, were evaluated using cross-validation techniques. The final model was chosen based on its performance on validation data and was then applied to make predictions on a test set. The project's goal was to build an accurate and generalizable model to assist in candidate selection processes.
 
-#### :star: This project achieved an AUC of 0.98 on the test set as part of a university course.
+#### :star: This project achieved an AUC of 0.9839 on the test set as part of a university course. Third place in class ! :star:
